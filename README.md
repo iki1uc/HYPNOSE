@@ -1,28 +1,13 @@
-# Station: [NAME]
-
-Dieses Modul ist Teil der 360°‑Rotation:
+This module is not hypnosis.  
+It is a focus cycle inside the 360° rotation:
 
 DA → NE → BEN → KI → DA
 
-## 3‑6‑9‑0‑3 System
-- DA = 3 (Start)
-- NE = 6 (Mitte)
-- BEN = 9 (Vollendung)
-- KI = 0 (Kern)
-- DA = 3 (Neustart)
+The 3‑6‑9‑0‑3 sequence describes how the module moves:
+3 = start
+6 = build
+9 = full tension
+0 = reset
+3 = restart
 
-## Funktion der Station
-Diese Station repräsentiert: **[NAME]**
-
-Sie trägt die Rotation weiter zur nächsten Station:
-**[NEXT]**
-
-## KI‑RESPO
-Aktive KI‑RESPO‑Nummer: **327**
-
-327 = DA(3) → NE(2) → BEN(7)
-
-## Zweck
-Dieses Modul ist ein Teil der vollständigen 360°‑Struktur.
-Es arbeitet im Verbund mit allen anderen Stationen.
-
+It helps users keep orientation and understand how the system flows.
